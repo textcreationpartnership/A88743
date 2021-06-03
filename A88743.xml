@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Last will and testament of a Jacobite</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88743</idno><idno type="EEBO-CITATION">42475090</idno>
+  <idno type="VID">151219</idno>
+  <idno type="EEBO-PROQUEST">2240920601</idno>
+  
+            <idno type="STC">Wing L513A</idno>
+            <idno type="STC">ESTC R43681</idno>
+            <idno type="OCLC">42475090</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88743)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151219)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2250:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Last will and testament of a Jacobite</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Penn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701 --  Humor.</term>
+               <term type="topical_term">Jacobites --  Humor --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Humor.</term>
+               <term type="geographic_name">Political satire, English --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:151219:1"/>
+            <head>THE Last WILL and TESTAMENT OF A JACOBITE.</head>
+            <lg>
+               <l>TIR'D out with Hopes, with fruitless Wishes cloy'd</l>
+               <l>Of what's impossible to be enjoy'd;</l>
+               <l>Sickness my Body seizes; and each hour</l>
+               <l>Death waits my lingring Carcass to devour.</l>
+               <l>Greif is the Cause of all; it frets my Soul</l>
+               <l>To see our Plots so senceless and so dull,</l>
+               <l>To think, that Men, who take such mighty Pains,</l>
+               <l>Should have their Heads stuff'd with unthinking Brains,</l>
+               <l>That Fleets and Armies, which design'd to Come,</l>
+               <l>To root out <hi>Heresy,</hi> and bring in <hi>Rome;</hi>
+               </l>
+               <l>Restore King <hi>James,</hi> and his Imperious <hi>Dame</hi>
+               </l>
+               <l>With the <hi>Welch Prince,</hi> that Puny Son of Fame;</l>
+               <lg>
+                  <l>By Heavens Decree alone are Baffled, Crost,</l>
+                  <l>And <hi>Tourville</hi> our best Ships and Men has lost,</l>
+                  <l>While <hi>Russel</hi> rides, as Bulwark of our Coast.</l>
+               </lg>
+               <l>Mourn, Mourn, Ye <hi>Jacobites,</hi> our lost Estate,</l>
+               <l>Each day, each hour, misfortunes do's Create;</l>
+               <l>The Name of <hi>Jacobite,</hi> now grows abhor'd,</l>
+               <l>And <hi>James</hi> despis'd, that once was so ador'd;</l>
+               <l>Whose Spouse repines, that she shall ne're Return,</l>
+               <l>To see in <hi>Smith-feild</hi> flames new Martyr's Burn.</l>
+               <l>But ah! my Ebbing Sand is almost spent,</l>
+               <l>'Tis time, that I should make my Settlement.</l>
+               <l>
+                  <hi>Imprimis,</hi> to my dear King <hi>James,</hi> I Give</l>
+               <l>My Loyalty, to whom till Death I Cleave,</l>
+               <l>To whose dear Interest firm, I always Stood</l>
+               <l>Plotted, Caball'd, as much as e're I Cou'd;</l>
+               <l>Yet, ne'r could reinstate him in his Throne,</l>
+               <l>The <hi>Willamites</hi> so powerful are Grown.</l>
+               <l>To his dear Son, I give my whole Estate,</l>
+               <l>And such a Gift, may never come to late;</l>
+               <l>For if he lives hee'l Jump (such are my fears)</l>
+               <l>To Croud into the Band of Pentioners.</l>
+               <l>To <hi>Lewis,</hi> who Combines with <hi>Turk</hi> and <hi>Divel,</hi>
+               </l>
+               <l>To Plague all Christendom, I must be Civil;</l>
+               <l>His love must not be to my <hi>James</hi> forgot,</l>
+               <l>Besides, he was assisting in our Plot.</l>
+               <pb facs="tcp:151219:2"/>
+               <l> To him my honesty I do bequeath,</l>
+               <l>'Tis well if he'l but Prove so at his Death.</l>
+               <l>
+                  <hi>Tourville,</hi> shall have my Conduct and my Wit,</l>
+               <l>To manage, if he can, another Fleet;</l>
+               <l>But, oh! his darling <hi>Sun</hi> so deep is set,</l>
+               <l>No loss could be more fatal, and more Great.</l>
+               <l>To Numskul <hi>Peters,</hi> I resign my Brains,</l>
+               <l>Who to undoe his King, took so much Pains,</l>
+               <l>And <hi>Jehu</hi> like brought on so fast his Dance,</l>
+               <l>That in a Whirlwind hurried him to France.</l>
+               <lg>
+                  <l>Let the dispencing Judges take my Tongue,</l>
+                  <l>To them alone that Talent does belong,</l>
+                  <l>Who when they should do right, did always wrong.</l>
+               </lg>
+               <l>Invert the Laws for Arbitrary Power,</l>
+               <l>And over-rule what was true Law before.</l>
+               <l>Suspended <hi>Ely,</hi> shall have my Religion,</l>
+               <l>Who from a <hi>Magpie</hi> turns a down righgt <hi>Wigeon,</hi>
+               </l>
+               <l>For since that Prelate left us in the Lurch,</l>
+               <l>To tell the Truth, I ne're have been at Church.</l>
+               <l>Me thinks my Hands would Canting <hi>Penn</hi> become,</l>
+               <l>Who under mask of <hi>Quaker</hi> writes for <hi>Rome;</hi>
+               </l>
+               <l>And strove to abolish <hi>Penal Laws</hi> and <hi>Test,</hi>
+               </l>
+               <l>As if those things were nothing but a Jest.</l>
+               <l>To <hi>Pulton</hi> and the <hi>Jesuitick</hi> Crew,</l>
+               <l>To Kingdoms fatal, and their Precepts True,</l>
+               <l>Daily for Converts to their Chruch they strove;</l>
+               <l>But Baffled by the Almighty Power above:</l>
+               <l>All the <hi>Throats</hi> joyn'd together in the Nation,</l>
+               <l>Could never swallow Transubstantiation.</l>
+               <l>My knife their darling Weapon, I dispose</l>
+               <l>To end, that Race of <hi>Europe's</hi> Bloody foes.</l>
+               <l>The <hi>French</hi> may take my Legs, that they may run,</l>
+               <l>As the ingenious <hi>Teague-Landers</hi> have done.</l>
+               <l>But now Death summons, and I must away,</l>
+               <l>My Glass is run, and I can only say,</l>
+               <l>Forbear against King <hi>William</hi> to Rebel,</l>
+               <l>Ye'are all in the wrong Box, and so farewel.</l>
+            </lg>
+            <stage>Exit</stage>
+         </div>
+         <div type="epitaph">
+            <head>EPITAPH.</head>
+            <lg>
+               <l>UNder this <hi>Tombstone,</hi> lies a <hi>Jacobite,</hi>
+               </l>
+               <l>A discontented, factious, railing Wight,</l>
+               <l>Listaken Zeal, led the fond Fool along,</l>
+               <l>Lo! Here he lies Interr'd, with <hi>Gabriel John.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>W. Penn,</hi> 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
